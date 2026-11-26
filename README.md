@@ -10,7 +10,7 @@ Enterprise Software | Distributed Systems | Cloud Platforms | Workflow Orchestra
 - 🏅 **ACR Hive Five Award** — 2026
 - ☁️ [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/d9dfc4de-2293-4683-a206-76e7891177c8/linked_in_profile)
 - ☁️ [AWS Certified Developer – Associate](https://www.credly.com/badges/158a9136-80dd-485a-b967-0d2d1642387c/linked_in_profile)
-- ☁️ [AWS Certified Cloud Practitioner](https://www.credly.com/badges/82983a52-28a7-4e48-accb-1461b45d3d55/linked_in_profile) *(expired August 2026)*
+- ☁️ [AWS Certified Cloud Practitioner](https://www.credly.com/badges/82983a52-28a7-4e48-accb-1461b45d3d55/linked_in_profile) 
 - 🎓 **Boston University — MS in Computer Science & AI** *(in progress)*
 
 ## About Me 👋
